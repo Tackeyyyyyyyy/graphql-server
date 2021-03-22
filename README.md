@@ -1,2 +1,2 @@
 # graphql-server
-- GraphQLをNode.jsとexpressで作る
+- GraphQLサーバーをNode.jsとexpressで実装する
